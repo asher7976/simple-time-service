@@ -27,8 +27,11 @@ A minimalist microservice built with Flask that returns the current UTC timestam
      cd simpletimeservice
 
 **2. Build and Run the Docker Container**
+
 docker build -t simpletimeservice .
+
 docker run -d -p 5000:5000 simpletimeservice
 
 **3. Access the Service**
+
 The app will be running on http://localhost:5000. You can access the timestamp and IP address by visiting this URL.

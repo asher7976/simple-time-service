@@ -24,7 +24,7 @@ A minimalist microservice built with Flask that returns the current UTC timestam
  **1.Clone the Repository**
  
      git clone https://github.com/asher7976/simple-time-service.git
-     cd simpletimeservice
+     cd simple-time-service
 
 **2. Build and Run the Docker Container**
 
